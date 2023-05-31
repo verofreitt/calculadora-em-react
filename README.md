@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-Projeto de calcula desenvolvida em React para validar conhecimentos com as ferramentas react, html, css e lógica de programação.
+Projeto de calculadora desenvolvida em React para validar conhecimentos com as ferramentas react, html, css e lógica de programação.
 </p>
